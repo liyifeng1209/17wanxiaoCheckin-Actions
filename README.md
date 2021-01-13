@@ -130,7 +130,7 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: 0 22,4,9 * * *
+    - cron: 0 23 * * *
 ``` 
 
 ### 4、程序报错显示密码错误，还有 * 次机会？
